@@ -1,0 +1,7 @@
+POST http://127.0.0.1:8000/age/
+Content-Type: application/json
+
+{
+    "obtained_marks":450,
+    "total_marks":500
+}

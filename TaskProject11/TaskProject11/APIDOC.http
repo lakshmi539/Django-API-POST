@@ -1,0 +1,8 @@
+POST http://127.0.0.1:8000/product-profit/ 
+Content-Type: application/application/json
+
+{
+    "cost_price": 800, 
+    "selling_price": 1000, 
+    "quantity": 25 
+}

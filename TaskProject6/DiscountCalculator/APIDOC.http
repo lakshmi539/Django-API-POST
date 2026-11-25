@@ -1,0 +1,7 @@
+POST  http://127.0.0.1:8000/discount/
+Content-Type: application/json
+
+{
+    "price": 2000, 
+    "discount_percentage": 10 
+}

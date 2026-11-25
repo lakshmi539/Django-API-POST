@@ -1,0 +1,8 @@
+POST http://127.0.0.1:8000/fuel-cost/
+Content-Type: application/json
+
+{
+    "distance": 300, 
+    "mileage": 15, 
+    "fuel_price": 105
+}

@@ -1,0 +1,8 @@
+
+POST http://127.0.0.1:8000/work-salary/ 
+Content-Type: application/json
+
+   { "hours_worked": 180, 
+    "regular_hours": 160, 
+    "hourly_rate": 200, 
+    "overtime_rate": 300 }

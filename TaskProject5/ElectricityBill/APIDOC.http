@@ -1,0 +1,7 @@
+POST http://127.0.0.1:8000/electricity-bill/
+Content-Type: application/json
+
+{
+    "units":150,
+    "rate":6
+}

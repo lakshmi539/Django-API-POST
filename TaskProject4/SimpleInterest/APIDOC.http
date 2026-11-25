@@ -1,0 +1,8 @@
+POST  http://127.0.0.1:8000/simple-interest/
+Content-Type: application/json
+
+{
+    "principal":10000,
+    "rate":5,
+    "time":2
+}
